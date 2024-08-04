@@ -1,11 +1,11 @@
-# Galleria - A Photo Search App In A Retro Look.
+# Galleria - A Photo Search App In A Retro Look - user can search for a particular image as well as download that image to the local machine.
 
 ## Language used
  -HTML 
  -CSS 
  -JAVASCRIPT
 
-## Unisplash API used
+## Unsplash API used
 
 ## Color Palette
 https://coolors.co/palette/264653-2a9d8f-e9c46a-f4a261-e76f51
