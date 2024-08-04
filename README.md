@@ -1,4 +1,4 @@
-# Galleria - A Photo Search App In A Retro Look - user can search for a particular image as well as download that image to the local machine.
+# Galleria - A Photo Search App In A Retro Look - Users can search for a particular image, view its details, and download it to their local machine.
 
 ## Language used
  -HTML 
